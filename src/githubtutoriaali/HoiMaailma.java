@@ -1,8 +1,8 @@
 package githubtutoriaali;
-public class GitHubTutoriaali {
+public class HoiMaailma {
     public static void main(String[] args) {
         
-        System.out.println("Hello world!");
+        System.out.println("Hoi sie! Haluuksie morast kylkee?");
         
     }
 }
